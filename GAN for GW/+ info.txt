@@ -1,0 +1,2 @@
+The project will be regularly updated. If you're interested, you can access the used data and obtained models on: https://drive.google.com/drive/folders/1KnqfQDjG9yeqwokNTNyHkx2oozh03F6y?usp=sharing
+In any case, running the .ipynb file one should obtain the same data
